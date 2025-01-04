@@ -1,7 +1,9 @@
 # POWER-BI-PROJECT 
 # Overview
 
-This Power BI project provides an interactive and insightful analysis of "COVID-19 Data Trends". The report leverages advanced visualizations and data modeling to enable stakeholders to derive actionable insights and make informed decisions.
+This Power BI project provides an interactive and insightful analysis of "COVID-19 Data Trends".
+
+The report leverages advanced visualizations and data modeling to enable stakeholders to derive actionable insights and make informed decisions.
 
 # Features
 
@@ -16,12 +18,15 @@ Custom Visuals: Leverage Power BI’s extensive library of visuals for enhanced 
 # Data Sources
 
 The analysis is based on data from the following sources:
+
 Covid-19 https://www.kaggle.com/datasets/imdevskp/corona-virus-report 
 
 # Requirements
 
 To view and interact with the Power BI report, you need:
+
 Power BI Desktop (for offline access) or Power BI Service (for online access).
+
 Access to the [data sources/cloud storage] (if applicable).
 
 # How to Use
@@ -29,8 +34,11 @@ Access to the [data sources/cloud storage] (if applicable).
 Open the Power BI report file (.pbix) in Power BI Desktop .
 
 Use the slicers on the dashboard to filter data by specific dimensions (e.g., continents, region).
+
 Hover over visuals to see detailed data points and tooltips.
+
 Drill down into hierarchies for a more granular analysis.
+
 Export visuals or data tables as needed for presentations or further analysis.
 
 # Insights
@@ -38,15 +46,25 @@ Export visuals or data tables as needed for presentations or further analysis.
 Key insights from this analysis include:
 
 Total Cases,tests,deaths reported over various continents,regions.province states etc visualised over cards.
+
 Average of death based on region
+
 Count of recovered ones by Country
+
 Active patients over different regions
+
 Sum of deaths by WHO  region
+
 Death VS recovered ones by Country
+
 Recovered VS Active Cases Distribution
+
 Weekly increase percent BY region
+
 Confirmed cases by WHO region
+
 Cases VS deaths By Date
+
 Sum of Recovered Ones by Country in tables
 
 # Future  Enhancements
@@ -54,6 +72,7 @@ Sum of Recovered Ones by Country in tables
 Planned updates to this report include:
 
 Integration of additional data sources for a more comprehensive analysis.
+
 Improved storytelling visuals to highlight key narratives.
 
 # Support
@@ -61,6 +80,7 @@ Improved storytelling visuals to highlight key narratives.
 For questions or support regarding this analysis, please contact:
 
 Name: MOHAMMED YAZIN N 
+
 Email: yazinzyn@gmail.com
 
 
