@@ -1,4 +1,5 @@
-# POWER-BI-PROJECT 
+# COVID 19 ANALYSIS (POWER-BI-PROJECT)
+
 # Overview
 
 This Power BI project provides an interactive and insightful analysis of "COVID-19 Data Trends".
