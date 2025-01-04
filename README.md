@@ -6,8 +6,11 @@ This Power BI project provides an interactive and insightful analysis of "COVID-
 # Features
 
 Interactive Dashboards: Explore dynamic charts, graphs, and tables for a comprehensive view of the data.
+
 Data Filtering: Use slicers and filters to analyze data by "continents, country or region, province_state,WHO region ".
+
 Trend Analysis: Identify patterns and trends over time with line charts and forecasting visuals.
+
 Custom Visuals: Leverage Power BI’s extensive library of visuals for enhanced data representation.
 
 # Data Sources
